@@ -12,3 +12,4 @@ DB:
 
 Tools:
 https://www.buzzingandroid.com/tools/android-layout-finder/ - xml -> findViewById or InjectView
+https://github.com/marcoRS/lint-cleaner-plugin - remove unused resources finded by lint 
