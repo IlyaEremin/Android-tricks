@@ -21,3 +21,5 @@ https://github.com/Bearded-Hen/Android-Bootstrap - *awesome UI elements library 
 **Articles:**
 
 https://speakerdeck.com/cyrilmottier/deep-dive-into-android-state-restoration - save Activity/Fragment state on phone changes (locale, configuration etc).
+
+https://github.com/iluwatar/java-design-patterns - design patterns with java.
