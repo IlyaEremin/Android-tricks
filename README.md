@@ -11,6 +11,8 @@ https://github.com/evant/holdr - butterKnife/roboGuice killer
 **DB:**
 
   https://github.com/Jearil/SimpleNoSQL - simple asynchronous object to storage writter/reader 
+  https://github.com/pardom/ActiveAndroid 
+  https://github.com/jgilfelt/android-sqlite-asset-helper
 
 **Tools:**
 
