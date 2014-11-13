@@ -19,6 +19,7 @@ https://github.com/evant/holdr - butterKnife/roboGuice killer
 https://www.buzzingandroid.com/tools/android-layout-finder/ - xml -> findViewById or InjectView
 https://github.com/marcoRS/lint-cleaner-plugin - remove unused resources finded by lint 
 https://github.com/Bearded-Hen/Android-Bootstrap - *awesome UI elements library (buttons, edittext, textView etc)*
+https://github.com/greenrobot/greenrobot-common - file, string, date, time utils collection in small lib
 
 **Articles:**
 
