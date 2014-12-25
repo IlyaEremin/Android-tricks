@@ -27,5 +27,6 @@ https://speakerdeck.com/cyrilmottier/deep-dive-into-android-state-restoration - 
 
 https://github.com/iluwatar/java-design-patterns - design patterns with java.
 
-**design (UI) **
+**design (UI)**
+
 http://www.materialpalette.com/ - material pallete
