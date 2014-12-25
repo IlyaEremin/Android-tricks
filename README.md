@@ -26,3 +26,6 @@ https://github.com/greenrobot/greenrobot-common - file, string, date, time utils
 https://speakerdeck.com/cyrilmottier/deep-dive-into-android-state-restoration - save Activity/Fragment state on phone changes (locale, configuration etc).
 
 https://github.com/iluwatar/java-design-patterns - design patterns with java.
+
+**design (UI) **
+http://www.materialpalette.com/ - material pallete
